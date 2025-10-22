@@ -1,2 +1,0 @@
-# zintense.github.io
-web
